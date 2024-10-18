@@ -5,7 +5,7 @@
 Source code for the paper "Denoising of Geodetic Time Series Using Spatiotemporal Graph Neural Networks: Application to Slow Slip Event Extraction".
 Please cite the original paper when using this code:
 
-Costantino, G., Giffard-Roisin, S., Mura, M. D., & Socquet, A. (2024). Denoising of Geodetic Time Series Using Spatiotemporal Graph Neural Networks: Application to Slow Slip Event Extraction. arXiv preprint arXiv:2405.03320.
+Costantino, G., Giffard-Roisin, S., Mura, M. D., & Socquet, A. (2024). Denoising of Geodetic Time Series Using Spatiotemporal Graph Neural Networks: Application to Slow Slip Event Extraction. doi:10.1109/JSTARS.2024.3465270.
 
 ## Installation
 
